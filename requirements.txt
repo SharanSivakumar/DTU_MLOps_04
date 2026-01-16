@@ -37,7 +37,7 @@ colorama==0.4.6
     #   mkdocs-material
     #   pytest
     #   tqdm
-coverage==7.6.9
+coverage==7.13.1
     # via group04
 distlib==0.4.0
     # via virtualenv
